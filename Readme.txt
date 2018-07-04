@@ -9,3 +9,6 @@ http://activemq.apache.org/activemq-5154-release.html
 Producer and Consumer Example:-
 ------------------------------
 http://activemq.apache.org/hello-world.html
+
+Dynamic Route Example:-
+------------------------
