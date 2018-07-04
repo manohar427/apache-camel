@@ -14,7 +14,7 @@ public class CamelHelloWorldTimerExample {
 					from("timer://myTimer?period=2000")
 					.setBody()
 				    .simple("Hello World Camel fired at ${header.firedTime}")
-				    .to("jms:queue:javainuse");
+				    .to("jms:queue:manohar_queue");
 				}
 			});
 			context.start();
