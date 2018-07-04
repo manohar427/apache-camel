@@ -12,3 +12,4 @@ http://activemq.apache.org/hello-world.html
 
 Dynamic Route Example:-
 ------------------------
+http://javainuse.com/camel/camel-dynamic-router-example
